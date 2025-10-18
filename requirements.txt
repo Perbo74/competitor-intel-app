@@ -1,0 +1,13 @@
+streamlit>=1.37
+pandas>=2.2
+gspread>=6.1.2
+google-auth>=2.33.0
+google-auth-oauthlib>=1.2.1
+google-api-python-client>=2.144.0
+pytz>=2024.1
+requests>=2.32
+pdfplumber>=0.11.4
+pdfminer.six>=20231228
+python-pptx>=0.6.23
+Pillow>=10.4
+protobuf<5
